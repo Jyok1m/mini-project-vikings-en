@@ -65,3 +65,8 @@ class War():
     # def showStatus(self):
     #     # your code here
     # pass
+
+vik_1 = Viking("John", 10, 2)
+vik_2 = Viking("Jane", 10, 1)
+
+vik_1.battleCry()
